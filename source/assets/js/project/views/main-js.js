@@ -1,0 +1,1 @@
+videojs.options.flash.swf = "assets/js/vendor/video-js/video-js.swf";
